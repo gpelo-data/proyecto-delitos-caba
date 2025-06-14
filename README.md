@@ -25,7 +25,11 @@ toma de decisiones en tiempo real para la gestión de la seguridad.
 - Adobe InDesign 
 
 
-##
+## 📊 Dashboards de Power BI
+![1](img/portada.png)
+![2](img/pantalla2.png)
+![3](img/pantalla3.png)
+![4](img/pantalla4.png)
 
 
 ## 📈 Resultados destacados
