@@ -32,6 +32,11 @@ toma de decisiones en tiempo real para la gestión de la seguridad.
 ![4](img/pantalla4.png)
 
 
+## 🔍 Análisis Exploratorio de Datos (EDAD)
+[Notebook de análisis exploratorio](notebooks/eda-delitos.ipynb)  
+
+
+
 ## 📈 Resultados destacados
 Como hipótesis inicial nos planteamos que la cercanía a ciertos puntos de interés podría influir en los hechos delictivos.
 A lo largo del análisis,  pudimos cruzar la ubicación de más de un millón de delitos registrados con la ubicación de puntos de interés como comisarías, escuelas, etc.
