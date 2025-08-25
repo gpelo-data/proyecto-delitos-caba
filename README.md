@@ -32,7 +32,7 @@ toma de decisiones en tiempo real para la gestión de la seguridad.
 ![4](img/pantalla4.png)
 
 
-## 🔍 Análisis Exploratorio de Datos (EDAD)
+## 🔍 Análisis Exploratorio de Datos (EDA)
 [Notebook de Análisis Exploratorio](notebooks/eda-delitos.ipynb)  
 
 
